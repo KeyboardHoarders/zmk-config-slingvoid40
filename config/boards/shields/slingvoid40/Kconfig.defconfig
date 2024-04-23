@@ -1,0 +1,6 @@
+if SHIELD_SLINGVOID40
+
+config ZMK_KEYBOARD_NAME
+    default "slingvoid40"
+
+endif
